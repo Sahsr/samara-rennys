@@ -1,4 +1,5 @@
 # Olá, eu sou Samara Rennys 👋
+<img src="banner.png" width="100%">
 
 🎓 Estudante de Engenharia de Software  
 💻 Focada em Desenvolvimento Back-End e Front-end 
